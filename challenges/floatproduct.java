@@ -11,7 +11,8 @@ public class floatproduct {
    double first = input.nextDouble();
 System.out.println("Please enter the second float value: ");
 double second = input.nextDouble();
+
 double product = first + second;
-System.out.println(product);
+System.out.println("result is: "+ (first + second));
 }
 }
